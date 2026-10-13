@@ -1,0 +1,7 @@
+[ ext ]
+basicConstraints=critical,CA:FALSE
+keyUsage=critical,digitalSignature,keyEncipherment
+extendedKeyUsage=serverAuth
+subjectAltName=DNS:www.aluno50548.isel.pt
+subjectKeyIdentifier=hash
+authorityKeyIdentifier=keyid:always
