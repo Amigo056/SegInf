@@ -1,2 +1,6 @@
 *.class
 /dados/
+/resultados_4_1/**/blocos/
+/resultados_4_1/**/logs/
+/resultados_4_2/**/blocos/
+/resultados_4_2/**/logs/

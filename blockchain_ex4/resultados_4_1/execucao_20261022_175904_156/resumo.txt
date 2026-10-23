@@ -1,0 +1,11 @@
+Experiencia 4.1
+Blocos inseridos: 100
+Alvo: 1024
+Java: 21.0.12.1
+Sistema: Linux (amd64)
+Total de tentativas: 6771
+Media de tentativas por bloco: 67.710
+Tempo medio da aplicacao: 127.754 ms
+Tempo medio do processo: 207.469 ms
+Aplicacao: de main ate a escrita dos ficheiros, sem arranque da JVM.
+Processo: inclui lancamento da JVM, aplicacao e escrita da saida no log.
