@@ -14,7 +14,7 @@ import java.util.regex.Pattern;
 
 /** Acrescenta uma mensagem a uma cadeia de blocos guardada na diretoria atual. */
 public class Blockchain {
-    private static final int ALVO = 1024;
+    private static final int ALVO = 512; //1024;
     private static final Pattern FICHEIRO_BLOCO =
             Pattern.compile("([1-9][0-9]*)\\.(txt|nce|hsh)");
 

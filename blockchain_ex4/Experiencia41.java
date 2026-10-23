@@ -16,7 +16,7 @@ import java.util.Locale;
 /** Questao 4.1: cem insercoes, cada uma numa nova execucao de Blockchain. */
 public class Experiencia41 {
     private static final int QUANTIDADE = 100;
-    private static final int ALVO = 1024;
+    private static final int ALVO = 512; //1024;
 
     public static void main(String[] args) {
         if (args.length > 1) {
